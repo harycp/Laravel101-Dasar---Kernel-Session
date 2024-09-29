@@ -1,6 +1,6 @@
 ## Laravel101-Dasar---Kernel-Session
 
-### Run the larave
+### Start laravel
 php artisan serve
 
 ### Run the Vite
